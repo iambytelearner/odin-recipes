@@ -1,5 +1,8 @@
 .heading{
-    color: rgb(189, 7, 7);
+    color: red;
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
 }
 
 .ingred{
@@ -12,4 +15,8 @@
 
 .about{
     color: rgb(219, 61, 4);
+}
+
+.head{
+    color: goldenrod;
 }
